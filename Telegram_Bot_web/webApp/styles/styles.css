@@ -1,0 +1,7 @@
+body {
+    overflow: hidden; /* Hide scrollbars */
+  }
+
+#input-with-icon-textfield{
+    color: black;
+}
